@@ -55,3 +55,5 @@ require (
 	gvisor.dev/gvisor v0.0.0-20260122175437-89a5d21be8f0 // indirect
 	lukechampine.com/blake3 v1.4.1 // indirect
 )
+
+replace github.com/wlynxg/anet => github.com/wlynxg/anet v0.0.6-0.20250109065809-5501d401a269
